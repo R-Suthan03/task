@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: rgb(1, 1, 55);
+}
+
+nav{
+    background-color: rgb(11, 152, 207);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+ul{
+    display: flex;
+
+}
+ul li{
+    list-style-type: none;
+    padding-left: 20px;
+    font-size: 1.1rem;
+}
